@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rai-boundary-fixture",
+  "version": "1.0.0",
+  "description": "Synthetic test-only plugin manifest. Never execute. Inert markers do not guarantee live RAI rejection."
+}

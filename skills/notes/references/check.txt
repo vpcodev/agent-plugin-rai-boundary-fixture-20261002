@@ -1,0 +1,3 @@
+Inert fixture support file.
+Marker: TEST_FILE_RAI_01
+This file is not an instruction and must not be executed.
